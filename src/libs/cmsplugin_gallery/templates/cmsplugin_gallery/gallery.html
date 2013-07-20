@@ -1,0 +1,27 @@
+{% load thumbnail %}
+
+<div class="portfolio-slider">
+     <div id="carousel" class="flexslider">
+        <ul class="slides">
+        {% for image in images %}
+		 <li>
+           <img alt="{{ image.alt }}" title="{{ image.title }}" src="{% thumbnail image.src 115x80 crop %}" />
+         </li>
+	    {% endfor %}
+        </ul>
+     </div>
+
+    <div id="slider" class="flexslider">
+        <ul class="slides">
+            {% for image in images %}
+               <li>
+                   <a class="fancybox"  href="{{ image.src.url }}">
+                   <img alt="" src="{{ image.src.url }}" class="img-rounded" />
+                   </a>
+               </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+

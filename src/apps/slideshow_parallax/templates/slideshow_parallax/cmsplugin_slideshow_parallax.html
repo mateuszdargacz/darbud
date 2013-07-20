@@ -1,0 +1,51 @@
+{% load sekizai_tags %}
+{% addtoblock "css" %}<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}slideshow_parallax/css/parallax-slider.css"></script>{% endaddtoblock %}
+{% addtoblock "js" %}<script type="text/javascript" src="{{ STATIC_URL }}slideshow_parallax/js/jquery.cslider.js"></script>{% endaddtoblock %}
+{% addtoblock "js" %}
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('#da-slider').cslider({
+        current     : 0,    
+        autoplay    : true,
+        interval    : 4000,
+        bgincrement : 0  
+       });
+    });
+</script>
+{% endaddtoblock %}
+
+
+  
+                <div class="bannercontainer" >
+                    <div class="banner" >
+                        <ul>
+          {% for slide in slides %}
+          {% if slide.published %}
+          {% if slide.img %}
+            <li class="slide1" data-transition="boxfade" data-slotamount="5"  data-masterspeed="300">
+               <img alt="" src="{{slide.img.url}}" />
+          {% endif %}
+              <div class="caption sfl carousel-caption" data-x="0" data-y="238" data-speed="1000" data-start="1000" data-easing="easeOutBack" style="background: none; padding-left: 0; width: 781px;">
+                <p class="big">{{ slide.title|safe }}</p>
+              </div>
+
+          {% if slide.description %}
+              <div class="caption sfb carousel-caption" data-x="0" data-y="281" data-speed="1000" data-start="1000" data-easing="easeInBack" style="background: none; padding-left: 0; width:781px;">
+                <p class="small">{{ slide.description|safe }}</p>
+              </div>
+
+          {% endif %}
+
+
+        {% endif %}
+
+      {% endfor %}
+
+      {% if slides|length > 1 %}
+
+      {% endif %}
+        </ul>
+     </div>
+</div>
+
+
