@@ -13,7 +13,7 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     (r'^robots.txt$', direct_to_template, {'template': 'robots.txt'}),
     (r'^humans.txt$', direct_to_template, {'template': 'humans.txt'}),
-
+    (r'^i18n/', include('django.conf.urls.i18n')),
     url(r'^aktualnosci/', include('zinnia.urls')),
     url(r'^comments/', include('django.contrib.comments.urls')),
     url(r'^', include('cms.urls')),

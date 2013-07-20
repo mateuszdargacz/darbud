@@ -13,7 +13,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    ('Technik', 'technik@internetprofil.pl'),
+    ('Mateusz', 'mateusz.dargacz@internetprofil.pl'),
 )
 
 MANAGERS = ADMINS
@@ -23,7 +23,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
         'NAME': 'dar_bud', # Or path to database file if using sqlite3.
         'USER': 'root', # Not used with sqlite3.
-        'PASSWORD': '', # Not used with sqlite3.
+        'PASSWORD': 'lipton#321', # Not used with sqlite3.
         'HOST': '127.0.0.1', # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '3306', # Set to empty string for default. Not used with sqlite3.
     }
@@ -45,6 +45,7 @@ LANGUAGE_CODE = 'pl'
 DEFAULT_CHARSET = 'utf-8'
 
 SITE_ID = 1
+MY_SITE_URL='http://127.0.0.1:8000/'
 
 #STATICFILES_DIRS = (
 #    # Put strings here, like "/home/html/static" or "C:/www/django/static".

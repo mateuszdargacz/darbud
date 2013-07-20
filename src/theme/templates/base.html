@@ -52,13 +52,21 @@
                 <div class="row">
 <!-- HEADER: LOGO AREA -->
                     <div class="span4 logo">
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="{{ MY_SITE_URL }}">
                             <img alt="logo" style="margin-bottom: -65px;" title="bizstrap" src="{{ STATIC_URL }}img/logo.png">
                         </a>
                     </div>
                     <div class="span4 offset4">
 <!-- HEADER: PHONE NUMBER -->
-                        <p class="head_phone">{% placeholder header_nr_tel %}</p>
+                        <p class="head_phone pull-left">
+                            {% placeholder header_nr_tel %}
+
+                        </p>
+                        <div class="btn-group pull-right">
+                          <button class="btn{% if request.LANGUAGE_CODE == 'pl' %} active {% endif %}"><a href="{{ SITE_URL }}pl/">PL</a></button>
+                          <button class="btn{% if request.LANGUAGE_CODE == 'en' %} active {% endif %}"><a href="{{ SITE_URL }}en/">EN</a></button>
+
+                        </div>
 <!-- HEADER: SOCIAL ICONS -->
 
                     </div>
@@ -188,7 +196,7 @@
                 <div class="container">
                     <div class="row show-grid">
                         <div class="span12">
-                            <p>(re)Design  by <a href="http://www.themeleaf.com">Mateusz Dargacz</a></p>
+                            <p>(re)Design  by <a href="https://github.com/mateuszdargacz">Mateusz Dargacz</a></p>
                         </div>
                     </div>
                 </div>

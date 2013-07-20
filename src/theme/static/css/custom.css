@@ -1359,7 +1359,7 @@ ul.icons {
     color: #666666;
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 18px;
-    margin-top: 25px;
+    margin-top: 5px;
     padding-bottom: 0;
 }
 .navbar .nav .open .dropdown-menu .active a {
@@ -3099,6 +3099,7 @@ p#note {
 .footer-bottom p a {
     color: #ffffff;
 }
+
 /*google plugin hack*/
     .plugin_googlemap img{
         max-width: none;
