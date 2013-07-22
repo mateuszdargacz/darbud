@@ -7,6 +7,7 @@ PROJECT_PATH = os.path.abspath(os.path.dirname(__file__))
 
 sys.path.append(os.path.join(PROJECT_PATH, 'libs'))
 sys.path.append(os.path.join(PROJECT_PATH, 'apps'))
+sys.path.insert(0, '/var/www/darbud/darbud')
 # Django settings for nanbit project.
 
 DEBUG = True
