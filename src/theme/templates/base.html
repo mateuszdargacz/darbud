@@ -53,7 +53,7 @@
 <!-- HEADER: LOGO AREA -->
                     <div class="span4 logo">
                         <a class="logo" href="{{ MY_SITE_URL }}">
-                            <img alt="logo" style="margin-bottom: -65px;" title="bizstrap" src="{{ STATIC_URL }}img/logo.png">
+                            <img alt="logo" style="margin-bottom: -65px; margin-top:10px;" title="bizstrap" src="{{ STATIC_URL }}img/logo.png">
                         </a>
                     </div>
                     <div class="span4 offset4">
@@ -63,8 +63,19 @@
 
                         </p>
                         <div class="btn-group pull-right">
-                          <button class="btn{% if request.LANGUAGE_CODE == 'pl' %} active {% endif %}"><a href="{{ SITE_URL }}pl/">PL</a></button>
-                          <button class="btn{% if request.LANGUAGE_CODE == 'en' %} active {% endif %}"><a href="{{ SITE_URL }}en/">EN</a></button>
+                          <button class="btn{% if request.LANGUAGE_CODE == 'pl' %} active {% endif %}"><a href="/pl/">PL</a></button>
+                          <button class="btn{% if request.LANGUAGE_CODE == 'en' %} active {% endif %}"><a href="/en/">EN</a></button>
+
+
+
+                <div class="lang_bar">
+                    {% language_chooser %}
+                </div>
+
+
+
+
+
 
                         </div>
 <!-- HEADER: SOCIAL ICONS -->
