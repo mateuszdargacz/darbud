@@ -45,9 +45,9 @@
 <!-- PORTFOLIO ITEMs -->
                         {% for image in images %}
                         <li class="span3 small hp-wrapper {{ image.category }}">
-                            <a class="fancybox" rel="group" href="{{ image.src.url }}"><img alt="" src="img/220_arrow_hover.png" class="hover-shade">
+                            <a><img alt="" src="img/220_arrow_hover.png" class="hover-shade">
                             </a>
-                            <a href="#" class="top-link"><img alt="" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}"></a>
+                            <a class="fancybox" rel="group" href="{{ image.src.url }}" class="top-link"><img alt="" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}"></a>
                             <div class="bottom-block">
 
                                 <p>{{ image.title }}</p>
