@@ -8,7 +8,7 @@ import models
 class CMSGalleryPlugin(CMSPluginBase):
     
     model = models.GalleryPlugin
-    inlines = [admin.ImageInline,]
+    inlines = [admin.CategoryInline,admin.ImageInline,]
     name = _('Image gallery')
     render_template = 'cmsplugin_gallery/gallery.html'
     

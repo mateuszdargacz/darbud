@@ -20,14 +20,23 @@ class GalleryPlugin(CMSPlugin):
 
 class GCategory(Sortable):
     name= models.CharField(max_length=255,)
-    image=models.ForeignKey('Image')
+    gallery=models.ForeignKey('GalleryPlugin')
 
 class Image(Orderable):
-    
+    category_choices=[]
+    def __init__(self, *args, **kwargs):
+        super(Image, self).__init__(*args, **kwargs)
+        category_choices=[]
+        for cat in GCategory.objects.all():
+            category_choices.append((cat.name,cat.name))
+
+
+
     gallery = models.ForeignKey(GalleryPlugin)
     src = models.ImageField(upload_to='cmsplugin_gallery/images', 
                             height_field='src_height', 
                             width_field='src_width')
+    category=models.CharField(max_length=255, blank=True,choices=category_choices)
     src_height = models.PositiveSmallIntegerField(editable=False, null=True)
     src_width = models.PositiveSmallIntegerField(editable=False, null=True)
     title = models.CharField(max_length=255, blank=True)
