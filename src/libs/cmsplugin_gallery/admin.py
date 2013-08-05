@@ -16,4 +16,3 @@ class ImageInline(OrderableStackedInline):
 class CategoryInline(OrderableStackedInline):
     model=models.GCategory
 
-admin.site.register(models.Category, CategoryInline)
