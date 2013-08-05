@@ -6,6 +6,14 @@
 
 <!-- add JS before </body> -->
 {% block add_js %}
+    <script type="text/javascript">
+    $(document).ready(function() {
+	$(".fancybox").fancybox({
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+    });
+    </script>
 {% endblock %}
 {% block content %}
  <div class="col-wrapper">
