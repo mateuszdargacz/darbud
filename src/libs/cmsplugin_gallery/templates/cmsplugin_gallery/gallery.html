@@ -45,7 +45,7 @@
 <!-- PORTFOLIO ITEMs -->
                         {% for image in images %}
                         <li class="span3 small hp-wrapper {{ image.category }}">
-                            <a><img alt="" src="{{ STATIC_URL }}img/220_arrow_hover.png" class="hover-shade">
+                            <a href="#">><img alt="" src="{{ STATIC_URL }}img/220_arrow_hover.png" class="hover-shade">
                             </a>
                             <a class="fancybox" rel="group" href="{{ image.src.url }}" class="top-link"><img alt="" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}"></a>
                             <div class="bottom-block">
