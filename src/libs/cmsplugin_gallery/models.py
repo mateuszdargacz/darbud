@@ -36,7 +36,7 @@ class Image(Orderable):
     src = models.ImageField(upload_to='cmsplugin_gallery/images', 
                             height_field='src_height', 
                             width_field='src_width')
-    category=models.CharField(max_length=255, blank=True,choices=category_choices,null=True)
+    category=models.CharField(max_length=255, blank=True,choices=category_choices,null=True,ch)
     src_height = models.PositiveSmallIntegerField(editable=False, null=True)
     src_width = models.PositiveSmallIntegerField(editable=False, null=True)
     title = models.CharField(max_length=255, blank=True)
