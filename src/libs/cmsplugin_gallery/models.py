@@ -1,3 +1,4 @@
+from adminsortable.models import Sortable
 from cms.models import CMSPlugin
 from django.db import models
 from django.utils.translation import ugettext_lazy as _
@@ -17,6 +18,9 @@ class GalleryPlugin(CMSPlugin):
     def __unicode__(self):
         return _(u'%(count)d image(s) in gallery') % {'count': self.image_set.count()}
 
+class GCategory(Sortable):
+    name= models.CharField(max_length=255,)
+    image=models.ForeignKey('Image')
 
 class Image(Orderable):
     

@@ -109,7 +109,6 @@ INSTALLED_APPS = (
     'theme',
     'django.contrib.auth',
     'django.contrib.admin',
-    'django.contrib.sites',
     'django.contrib.comments',
     'django.contrib.sessions',
     'django.contrib.messages',

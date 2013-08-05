@@ -13,7 +13,9 @@ class CMSGalleryPlugin(CMSPluginBase):
     render_template = 'cmsplugin_gallery/gallery.html'
     
     def render(self, context, instance, placeholder):
-        context.update({'images': instance.image_set.all(), 'gallery': instance})
+        context.update({'images': instance.image_set.all(),
+                        'gallery': instance,
+                        'categories': models.GCategory.objects.all().filter(gallery=instance)})
         self.render_template = instance.template
         return context
 
