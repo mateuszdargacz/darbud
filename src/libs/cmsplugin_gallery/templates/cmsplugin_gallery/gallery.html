@@ -1,29 +1,4 @@
 {% load thumbnail %}
-{##}
-{#<div class="portfolio-slider">#}
-{#     <div id="carousel" class="flexslider">#}
-{#        <ul class="slides">#}
-{#        {% for image in images %}#}
-{#		 <li>#}
-{#           <img alt="{{ image.alt }}" title="{{ image.title }}" src="{% thumbnail image.src 115x80 crop %}" />#}
-{#         </li>#}
-{#	    {% endfor %}#}
-{#        </ul>#}
-{#     </div>#}
-{##}
-{#    <div id="slider" class="flexslider">#}
-{#        <ul class="slides">#}
-{#            {% for image in images %}#}
-{#               <li>#}
-{#                   <a class="fancybox"  href="{{ image.src.url }}">#}
-{#                   <img alt="" src="{{ image.src.url }}" class="img-rounded" />#}
-{#                   </a>#}
-{#               </li>#}
-{#            {% endfor %}#}
-{#        </ul>#}
-{#    </div>#}
-{#</div>#}
-{##}
 
    <div class="portfolio-nav">
 <!-- SET PORTFOLIO NAV FILTERS HERE -->
@@ -32,7 +7,6 @@
                         {% for cat in categories %}
                         <li><a href="#" data-toggle="pill" data-filter=".{{ cat.name }}">{{ cat.name }}</a></li>
                         {% endfor %}
-                     <li><a href="#" data-toggle="pill" data-filter=".print">print</a></li>
                     </ul>
 <!-- SET PORTFOLIO NAV SWITCHES -->
 
@@ -47,7 +21,7 @@
                         <li class="span3 small hp-wrapper {{ image.category }}">
                             <a href="#"><img alt="" src="{{ STATIC_URL }}img/220_arrow_hover.png" class="hover-shade">
                             </a>
-                            <a class="fancybox" rel="group" href="{{ image.src.url }}" class="top-link"><img alt="" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}"></a>
+                            <a class="fancybox" rel="group" href="{{ image.src.url }}" class="top-link"><img alt="{{ image.alt }}" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}"></a>
                             <div class="bottom-block">
 
                                 <p>{{ image.title }}</p>
