@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/static/css/custom.css" afterPath="$PROJECT_DIR$/src/theme/static/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" afterPath="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136436181" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136815096" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375983043625" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375736344703" ignored="false" />
@@ -75,7 +74,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136813002" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136914695" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136297078" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136053217" ignored="false" />
@@ -101,12 +100,14 @@
       <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="139" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.476">
+            <state line="37" column="29" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.728">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#a#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#a#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#a#0;n#li#2;n#ul#0;n#div#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -676,7 +677,11 @@
       <created>1376136442448</created>
       <updated>1376136442448</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=" sobota nowy commit">
+      <created>1376136817658</created>
+      <updated>1376136817658</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -867,12 +872,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="139" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.476">
+        <state line="37" column="29" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.728">
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#a#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#a#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#a#0;n#li#2;n#ul#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
