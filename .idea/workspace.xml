@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment=" sobota nowy commit">
+    <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="darbud.iws" />
@@ -9,7 +9,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137066272" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137093542" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375983043625" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375736344703" ignored="false" />
@@ -73,7 +73,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137091540" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137219378" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136297078" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136053217" ignored="false" />
@@ -99,7 +99,7 @@
       <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="131" selection-start="827" selection-end="827" vertical-scroll-proportion="0.252">
+            <state line="23" column="120" selection-start="1386" selection-end="1386" vertical-scroll-proportion="0.456">
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
@@ -685,7 +685,11 @@
       <created>1376136919703</created>
       <updated>1376136919703</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary=" sobota nowy commit">
+      <created>1376137095602</created>
+      <updated>1376137095602</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -876,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="131" selection-start="827" selection-end="827" vertical-scroll-proportion="0.252">
+        <state line="23" column="120" selection-start="1386" selection-end="1386" vertical-scroll-proportion="0.456">
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
