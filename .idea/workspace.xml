@@ -10,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137736725" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137925794" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375983043625" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375736344703" ignored="false" />
@@ -74,7 +74,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137922760" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376137999140" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136297078" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136053217" ignored="false" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="32" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.49707603">
+            <state line="22" column="0" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.69590646">
               <folding />
             </state>
           </provider>
@@ -701,7 +701,11 @@
       <created>1376137740958</created>
       <updated>1376137740958</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary=" sobota nowy commit">
+      <created>1376137928544</created>
+      <updated>1376137928544</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -892,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.49707603">
+        <state line="22" column="0" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.69590646">
           <folding />
         </state>
       </provider>
