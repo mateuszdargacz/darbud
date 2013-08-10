@@ -10,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376134074657" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376135119310" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375983043625" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375736344703" ignored="false" />
@@ -68,13 +68,13 @@
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/settings/base.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375773411847" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/manage.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772891243" ignored="false" />
     <file path="/manage.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772887380" ignored="false" />
-    <file path="/offer.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376134782225" ignored="false" />
+    <file path="/offer.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376135109871" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/cms_plugins.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376134807208" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376135118696" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988719391" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -162,7 +162,7 @@
       <file leaf-file-name="offer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="837" selection-end="837" vertical-scroll-proportion="0.27875245">
+            <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.61013645">
               <folding />
             </state>
           </provider>
@@ -535,7 +535,15 @@
       <created>1376134078946</created>
       <updated>1376134078946</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary=" sobota nowy commit">
+      <created>1376134811607</created>
+      <updated>1376134811607</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" sobota nowy commit">
+      <created>1376134888974</created>
+      <updated>1376134888974</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="837" selection-end="837" vertical-scroll-proportion="0.27875245">
+        <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.61013645">
           <folding />
         </state>
       </provider>
