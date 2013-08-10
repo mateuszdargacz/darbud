@@ -57,7 +57,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/admin.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="/cms_plugins.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375732291811" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/models.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
-    <file path="/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136075849" ignored="false" />
+    <file path="/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136755139" ignored="false" />
     <file path="/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375735117187" ignored="false" />
     <file path="/local.example.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772702842" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/settings/local.example.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772702842" ignored="false" />
@@ -75,7 +75,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136435566" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136813002" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136297078" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136053217" ignored="false" />
@@ -98,19 +98,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="99" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.2692308">
-              <folding />
+            <state line="23" column="139" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.476">
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#a#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/theme/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2874" column="59" selection-start="62420" selection-end="62420" vertical-scroll-proportion="0.36842105">
+            <state line="2874" column="0" selection-start="62361" selection-end="62361" vertical-scroll-proportion="-3.4313726">
               <folding />
             </state>
           </provider>
@@ -216,8 +221,8 @@
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/realizacje.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/base.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
-        <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
         <option value="$PROJECT_DIR$/src/theme/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
       </list>
     </option>
   </component>
@@ -667,7 +672,11 @@
       <created>1376135121589</created>
       <updated>1376135121589</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary=" sobota nowy commit">
+      <created>1376136442448</created>
+      <updated>1376136442448</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -849,17 +858,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
+    <entry file="file://$PROJECT_DIR$/src/theme/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="99" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.2692308">
+        <state line="2874" column="0" selection-start="62361" selection-end="62361" vertical-scroll-proportion="-3.4313726">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/theme/static/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2874" column="59" selection-start="62420" selection-end="62420" vertical-scroll-proportion="0.36842105">
-          <folding />
+        <state line="23" column="139" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.476">
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#a#0;n#li#0;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#li#1;n#ul#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

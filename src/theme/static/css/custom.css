@@ -2872,7 +2872,6 @@ blockquote:before {
     color: #648798;
 }
 .hover-shade {     position: absolute;     left: -9999em;     top: 0; }
-.hover-shade:hover { position: absolute; left: 0; top: 0; }
 .block-posts {
     margin-bottom: 80px;
 }
