@@ -15,14 +15,14 @@
 
 <!-- START PORTFOLIO GRID -->
                 <div class="portfolio-grid-1 main-block">
-                    <ul id="gallery" class="thumbnails">
+                    <ul id="gallery" class="thumbnails gallery isotope" style="position: relative; overflow: hidden; height: 570px;">
 <!-- PORTFOLIO ITEMs -->
                         {% for image in images %}
                         <li class="span3 small hp-wrapper item isotope-item {{ image.category }}" style="position: absolute; left: 0px; top: 0px; -webkit-transform: translate3d(480px, 0px, 0px);">
                             <a href="{{ image.src.url }}" rel="group" class="top-link fancybox thumbnail">
 								<img alt="" src="{{ STATIC_URL }}img/gal_hover.png" class="hover-shade">
-								<img alt="{{ image.alt }}" style="width: 220px; height: 160px;" src="{% thumbnail image.src 220x160 crop %}">
-							</a>
+								<img alt="{{ image.alt }}" style="width: 220px; height: 160px;" src="{{ image.src.url }}">{{ image.src.url }}::::{{ image.src }}
+							</a><h1>DIC</h1>
                         </li>
                         <li class="span3 small hp-wrapper item isotope-item {{ image.category }}" style="position: absolute; left: 0px; top: 0px; -webkit-transform: translate3d(480px, 0px, 0px);">
                             <a href="{{ image.src.url }}" rel="group" class="top-link fancybox thumbnail">
