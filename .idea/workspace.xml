@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/static/css/custom.css" afterPath="$PROJECT_DIR$/src/theme/static/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" afterPath="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="darbud.iws" />
@@ -10,7 +11,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376135119310" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136436181" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375983043625" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375736344703" ignored="false" />
@@ -56,7 +57,7 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/admin.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="/cms_plugins.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375732291811" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/models.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
-    <file path="/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375769882344" ignored="false" />
+    <file path="/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136075849" ignored="false" />
     <file path="/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375735117187" ignored="false" />
     <file path="/local.example.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772702842" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/settings/local.example.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772702842" ignored="false" />
@@ -74,9 +75,10 @@
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/site.wsgi" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984543157" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/local_settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988395423" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376135118696" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/.idea/workspace.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136435566" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dembor/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988431476" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375988719391" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136297078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Dembor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1376136053217" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,19 +98,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/models.py">
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="92" selection-start="1386" selection-end="1386" vertical-scroll-proportion="0.0">
+            <state line="5" column="99" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.2692308">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/theme/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="55" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
+            <state line="2874" column="59" selection-start="62420" selection-end="62420" vertical-scroll-proportion="0.36842105">
               <folding />
             </state>
           </provider>
@@ -159,10 +161,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offer.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="offer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.61013645">
+            <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-12.038462">
               <folding />
             </state>
           </provider>
@@ -206,16 +208,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/libs/cms/plugins/googlemap/templates/cms/plugins/googlemap.html" />
-        <option value="$PROJECT_DIR$/src/theme/static/css/custom.css" />
         <option value="$PROJECT_DIR$/src/wsgi.py" />
         <option value="$PROJECT_DIR$/src/settings.py" />
         <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/admin.py" />
         <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/cms_plugins.py" />
         <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/models.py" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/realizacje.html" />
-        <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/base.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
+        <option value="$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" />
+        <option value="$PROJECT_DIR$/src/theme/static/css/custom.css" />
       </list>
     </option>
   </component>
@@ -288,7 +290,125 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmsplugin_gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darbud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmsplugin_gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmsplugin_gallery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -543,7 +663,11 @@
       <created>1376134888974</created>
       <updated>1376134888974</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=" sobota nowy commit">
+      <created>1376135121589</created>
+      <updated>1376135121589</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,11 +761,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -688,13 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="55" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="220" column="14" selection-start="10273" selection-end="10278" vertical-scroll-proportion="0.0">
@@ -732,7 +844,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.61013645">
+        <state line="35" column="75" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-12.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="99" selection-start="282" selection-end="282" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2874" column="59" selection-start="62420" selection-end="62420" vertical-scroll-proportion="0.36842105">
           <folding />
         </state>
       </provider>
