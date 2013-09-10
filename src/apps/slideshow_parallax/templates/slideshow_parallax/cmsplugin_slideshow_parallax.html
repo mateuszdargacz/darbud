@@ -18,7 +18,7 @@
                <img alt="" src="{{slide.img.url}}" />
           {% endif %}
               <div class="caption sfl carousel-caption" data-x="0" data-y="238" data-speed="1000" data-start="1000" data-easing="easeOutBack" style="background: none; padding-left: 0; width: 781px;">
-                <p class="big">{% get_current_language as LAN %}{{ LAN }}{{ slide.title|safe }}</p>
+                <p class="big">{% get_current_language as LAN %}{% if LAN == "pl" %}{{ slide.title|safe }}{% else %}Build with Bertrand's!{% endif %}</p>
               </div>
 
           {% if slide.description %}
