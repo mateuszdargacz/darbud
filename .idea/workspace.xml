@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="darbud.iws" />
@@ -10,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521600560" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521951585" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519493516" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378846486500" ignored="false" />
@@ -143,12 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picture.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="picture.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.230769">
+            <state line="3" column="54" selection-start="61" selection-end="61" vertical-scroll-proportion="0.16451614">
               <folding>
-                <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -191,10 +190,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offer.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="offer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="0.28709677">
+            <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="-3.4230769">
               <folding />
             </state>
           </provider>
@@ -250,8 +249,8 @@
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/about.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/realizacje.html" />
         <option value="$PROJECT_DIR$/src/apps/slideshow_parallax/templates/slideshow_parallax/cmsplugin_slideshow_parallax.html" />
-        <option value="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
+        <option value="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
       </list>
     </option>
   </component>
@@ -812,7 +811,11 @@
       <created>1379521602254</created>
       <updated>1379521602254</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="realizacje fix">
+      <created>1379521953781</created>
+      <updated>1379521953781</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -997,20 +1000,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
+    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.230769">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="-3.4230769">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
+    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="0.28709677">
-          <folding />
+        <state line="3" column="54" selection-start="61" selection-end="61" vertical-scroll-proportion="0.16451614">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
