@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -11,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379520467786" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379520990292" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519493516" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378846486500" ignored="false" />
@@ -106,7 +105,7 @@
     <file path="$PROJECT_DIR$/../../hestia-likwidacja/hestia_likwidacja_szkod/apps/loss_claims/utils.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378973720283" ignored="false" />
     <file path="/utils.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378973664825" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia-likwidacja/env/Lib/site-packages/django/forms/forms.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378974542730" ignored="false" />
-    <file path="/picture.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379520189738" ignored="false" />
+    <file path="/picture.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521101397" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,8 +146,9 @@
       <file leaf-file-name="picture.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="0.05483871">
+            <state line="2" column="46" selection-start="67" selection-end="67" vertical-scroll-proportion="0.10967742">
               <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -796,7 +796,11 @@
       <created>1379520472314</created>
       <updated>1379520472314</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="realizacje fix">
+      <created>1379520992617</created>
+      <updated>1379520992617</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -990,8 +994,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="0.05483871">
+        <state line="2" column="46" selection-start="67" selection-end="67" vertical-scroll-proportion="0.10967742">
           <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
