@@ -10,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519820742" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519879868" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519493516" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378846486500" ignored="false" />
@@ -21,7 +21,7 @@
     <file path="/main.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1374071950111" ignored="false" />
     <file path="$PROJECT_DIR$/../debor/debor/src/theme/static/css/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1374072531525" ignored="false" />
     <file path="/custom.css" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1374335630493" ignored="false" />
-    <file path="/dummy.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378897145353" ignored="false" />
+    <file path="/dummy.xml" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519919462" ignored="false" />
     <file path="$PROJECT_DIR$/../../promore/promore/apps/order_cv/templates/step_2.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1374527322230" ignored="false" />
     <file path="$PROJECT_DIR$/../../promore/promore/apps/order_cv/views.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1374593264223" ignored="false" />
     <file path="/views.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378975320264" ignored="false" />
@@ -105,7 +105,7 @@
     <file path="$PROJECT_DIR$/../../hestia-likwidacja/hestia_likwidacja_szkod/apps/loss_claims/utils.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378973720283" ignored="false" />
     <file path="/utils.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378973664825" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia-likwidacja/env/Lib/site-packages/django/forms/forms.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378974542730" ignored="false" />
-    <file path="/picture.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519876053" ignored="false" />
+    <file path="/picture.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519917399" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +146,7 @@
       <file leaf-file-name="picture.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.32903227">
+            <state line="6" column="6" selection-start="239" selection-end="239" vertical-scroll-proportion="0.32903227">
               <folding />
             </state>
           </provider>
@@ -773,7 +773,11 @@
       <created>1379519822976</created>
       <updated>1379519822976</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="realizacje fix">
+      <created>1379519881525</created>
+      <updated>1379519881525</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -967,7 +971,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.32903227">
+        <state line="6" column="6" selection-start="239" selection-end="239" vertical-scroll-proportion="0.32903227">
           <folding />
         </state>
       </provider>
