@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b57b77d-2c2a-475a-8037-915d422ba7bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" afterPath="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="darbud.iws" />
@@ -11,7 +10,7 @@
     <ignored path="../.idea/" />
     <ignored path="src/local_settings.py" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521502406" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521600560" ignored="false" />
     <file path="$PROJECT_DIR$/../Dar-Bud/src/settings.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1371255818517" ignored="false" />
     <file path="/a.dummy" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379519493516" ignored="false" />
     <file path="/base.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1378846486500" ignored="false" />
@@ -69,7 +68,7 @@
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/settings/base.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375773411847" ignored="false" />
     <file path="$PROJECT_DIR$/../../hestia_likwidacja_szkod/manage.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772891243" ignored="false" />
     <file path="/manage.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375772887380" ignored="false" />
-    <file path="/offer.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521584477" ignored="false" />
+    <file path="/offer.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1379521941579" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/libs/cmsplugin_gallery/cms_plugins.py" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984004901" ignored="false" />
     <file path="$PROJECT_DIR$/../../debor/debor/src/theme/templates/cms/site/realizacje.html" changelist="3b57b77d-2c2a-475a-8037-915d422ba7bb" time="1375984065078" ignored="false" />
@@ -144,10 +143,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picture.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="picture.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.43870968">
+            <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.230769">
               <folding>
                 <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#!!top" expanded="true" />
@@ -192,10 +191,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offer.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="offer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="41" selection-start="1457" selection-end="1457" vertical-scroll-proportion="-8.038462">
+            <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="0.28709677">
               <folding />
             </state>
           </provider>
@@ -251,8 +250,8 @@
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/about.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/site/realizacje.html" />
         <option value="$PROJECT_DIR$/src/apps/slideshow_parallax/templates/slideshow_parallax/cmsplugin_slideshow_parallax.html" />
-        <option value="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
         <option value="$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html" />
+        <option value="$PROJECT_DIR$/src/theme/templates/cms/site/offer.html" />
       </list>
     </option>
   </component>
@@ -809,7 +808,11 @@
       <created>1379521504451</created>
       <updated>1379521504451</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="realizacje fix">
+      <created>1379521602254</created>
+      <updated>1379521602254</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -994,20 +997,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="41" selection-start="1457" selection-end="1457" vertical-scroll-proportion="-8.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/plugins/picture.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.43870968">
+        <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.230769">
           <folding>
             <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/templates/cms/site/offer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="29" selection-start="7387" selection-end="8039" vertical-scroll-proportion="0.28709677">
+          <folding />
         </state>
       </provider>
     </entry>
